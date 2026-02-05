@@ -18,11 +18,16 @@ Symmetric Difference (^) – Elements present in either set but not in both
 Frozenset
 A frozenset is an immutable version of a set. Once created, elements cannot be added or removed.
 # Algorithms
+
 # Algorithm 1: Creation and Display of a Set
 Start
+
 Create a set with elements
+
 Print the set
+
 Stop
+
 Algorithm 2: Accessing Elements Using List
 Start
 Create a list of elements
